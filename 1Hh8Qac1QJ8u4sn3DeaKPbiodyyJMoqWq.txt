@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>Apple Bite Tart</title>
+<style>
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+h1 {
+  color: #333;
+}
+</style>
+</head>
+<body>
+<h1>Apple Bite Tart</h1>
+<p>الموقع قيد الإنشاء</p>
+</body>
+</html>
